@@ -1,1 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+body {
+    font-family: Raleway;
+    background-color: aquamarine;
+    font-size: 200%;
+    text-align: center;
+    text-shadow: 2px 2px 2px black;
+}
+div {
+    background-image: url(juan.png);
+    background-size: 55px;
+    background-color: blueviolet;
+    width: 300px;
+    margin: auto;
+    text-shadow: 2px 2px white;
+    color: beige;
+    box-shadow: 5px 5px 5px black;
+}
+#item1 {
+    border: 5p groove red;
 
+}
+#item2 {
+    border: 5px dotted red;
+
+}
+img{
+    width: 200px;
+}
