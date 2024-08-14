@@ -17,13 +17,11 @@ div {
     box-shadow: 5px 5px 5px black;
 }
 #item1 {
-    border-top: 5px groove red;
-    border: 5px groove red;
+     border-style:solid;
 
 }
 #item2 {
-    border-top: 5px dotted red;
-    border: 5px dotted red;
+     border-style:solid;
 
 }
 img{
